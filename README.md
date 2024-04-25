@@ -22,7 +22,7 @@ I also like to share what I learn on my [blog](https://dev.to/pandresdev)
 
 ### What I'm currently learning 📚
 * Diving into React performance
-* TDD
+* Mobile apps using Flutter
 
 <!-- ### How to reach me 📫
 [<img align="left" alt="Gmail" height="25" src="https://github.com/pandresvaldivia/pandresvaldivia/assets/47400743/d6f97603-6440-4d3e-88d6-749237d42ab3" />](mailto:pandresdev@gmail.com)
