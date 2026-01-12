@@ -16,7 +16,7 @@ I am a Peruvian-based Software Engineer 🇵🇪 dedicated to building scalable,
 
 ### 🛠️ Technical Stack
 
-<img alt="Night Coding" src="https://github.com/pandresvaldivia/pandresvaldivia/assets/47400743/1b6d8d6b-bdf4-460e-8732-40efeb50bb38" align="right" width="40%"/>
+<img alt="Night Coding" src="https://github.com/pandresvaldivia/pandresvaldivia/assets/47400743/1b6d8d6b-bdf4-460e-8732-40efeb50bb38" align="right" width="35%"/>
 
 | Category | Tools & Technologies |
 | :--- | :--- |
